@@ -1,0 +1,32 @@
+/* ad.css - Estilos para o anúncio de produto */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+.ad-container {
+  background: #fff;
+  max-width: 400px;
+  margin: 40px auto;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  padding: 32px 28px;
+  text-align: center;
+}
+.ad-title {
+  font-size: 2rem;
+  color: #2d3748;
+  margin-bottom: 12px;
+}
+.ad-price {
+  font-size: 1.5rem;
+  color: #38a169;
+  margin-bottom: 16px;
+  font-weight: bold;
+}
+.ad-description {
+  font-size: 1.1rem;
+  color: #4a5568;
+  margin-bottom: 0;
+}
